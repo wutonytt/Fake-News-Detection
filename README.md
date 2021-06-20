@@ -2,3 +2,8 @@
 # Fake News Detection using a BERT-based Deep Learning Approach
 ## Dataset
 https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
+## Approach
+LSTM
+Bi-LSTM
+CNN-BiLSTM
+BERT
