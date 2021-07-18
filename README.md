@@ -1,5 +1,4 @@
-# NYCU Spring 2021 AI Final Project
-Fake News Detection using a BERT-based Deep Learning Approach
+# Fake News Detection using a BERT-based Deep Learning Approach
 # Introduction
 Fake News is pervasive nowadays and is too easy to spread with social media and it is difficult for us to identify. Since the Covid-19 outbreak in Taiwan recently, a lot of fake news has popped up on social networks, such as LINE, Facebook, PTT (one of the largest online forums in Taiwan), etc. Hence, we aim to utilize multiple artificial intelligence algorithms to detect fake news to help people recognize it.
 # Related Work
